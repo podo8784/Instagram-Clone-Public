@@ -8,3 +8,18 @@
 ![Video Example 3](https://github.com/user-attachments/assets/8a6ae21a-63c8-42e1-a447-67fdc4614ac6)
 
 ![Video Example 4](https://github.com/user-attachments/assets/3e5aab8d-cbb2-4753-9d3e-e02f7cf12eb7)
+
+Python
+53.9%
+ 
+JavaScript
+29.2%
+ 
+HTML
+14.7%
+ 
+Shell
+2.1%
+ 
+CSS
+0.1%
